@@ -1,4 +1,4 @@
-# 🌤️ ESPWeather — Android + ESP32 Weather Monitor
+# ESPWeather — Android + ESP32 Weather Monitor
 
 A real-time temperature & humidity monitoring system built with **Android (Kotlin)** and an **ESP32 microcontroller**, featuring a clean UI, auto-refresh, smart JSON parsing, and direct device communication over WiFi.
 
