@@ -1,0 +1,7 @@
+<resources>
+    <!-- App theme that works with AppCompatActivity -->
+    <style name="Theme.ESPWeather" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- You can customize colors later -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
