@@ -43,14 +43,6 @@ ESP32:
 
 ---
 
-## Screenshots
-(You can upload these later — placeholder paths)
-
-    /assets/home_screen.png
-    /assets/settings.png
-
----
-
 ## ESP32 API Example
 
 Response from the ESP32 at:
